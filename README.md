@@ -13,7 +13,7 @@ Preprint, submitted June 2026
 ---
 
 
-<video src="assets/sidebyside_sd.mov" controls></video>
+<video src="assets/sidebyside_sd.mp4" controls></video>
 
 ---
 
