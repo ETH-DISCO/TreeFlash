@@ -12,8 +12,7 @@ Preprint, submitted June 2026
 
 ---
 
-
-<video src="assets/sidebyside_sd.mp4" controls></video>
+https://github.com/user-attachments/assets/d53dbbc0-351d-4dfc-bc28-91dc67ad5aa9
 
 ---
 
